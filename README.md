@@ -1,6 +1,5 @@
 ## RecipeAppPoe
 
-
 RecipeAppPoe is an interactive console application designed to simplify the process of creating and managing recipes. It empowers users to effortlessly add ingredients along with detailed preparation steps. Additionally, it offers the flexibility to adjust ingredient quantities by factors of 0.5, 2, or 3 while preserving the original amounts.
 
 ## Features
