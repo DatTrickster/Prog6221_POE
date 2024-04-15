@@ -5,6 +5,7 @@ RecipeAppPoe is an interactive console application designed to simplify the proc
 
 ## Features
 
+
 ## Recipe Entry
 RecipeAppPoe provides a user-friendly interface for entering ingredients and their respective quantities, units of measurement, and descriptions. Users are guided through each step, ensuring accurate and comprehensive recipe input.
 
