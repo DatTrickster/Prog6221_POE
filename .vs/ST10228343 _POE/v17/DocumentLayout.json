@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 261,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -30,8 +34,7 @@
               "RelativeToolTip": "ST10228343 _POE\\ItemsToBeUsed.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T13:14:09.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T13:14:09.017Z"
             },
             {
               "$type": "Document",
@@ -41,7 +44,7 @@
               "RelativeDocumentMoniker": "ST10228343 _POE\\Program.cs",
               "ToolTip": "C:\\Users\\xenno\\source\\repos\\ST10228343 _POE\\ST10228343 _POE\\Program.cs",
               "RelativeToolTip": "ST10228343 _POE\\Program.cs",
-              "ViewState": "AQIAAPkAAAAAAAAAAAAiwAUBAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T13:13:15.745Z",
               "EditorCaption": ""

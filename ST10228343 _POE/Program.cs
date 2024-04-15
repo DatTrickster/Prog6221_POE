@@ -5,7 +5,7 @@ namespace RecipeAppPoe
     using MyNamespace; // Importing custom namespace
     using System;
     using System.Text;
-
+    // start of the method
     internal class Program
     {
         static void Main(string[] args)
@@ -136,7 +136,7 @@ namespace RecipeAppPoe
                             Console.WriteLine("Input value is too large. Please enter a smaller value."); // Handle overflow exception
                         }
                     } while (!validCount);
-                    originalItemsArray = new ItemsToBeUsed[countForItems]; // Re-initialize array with new count
+                    originalItemsArray = new ItemsToBeUsed[countForItems]; // Re-initialize array with new count/
                     Console.WriteLine($"{countForItems} slots have been created. Confirm if it is correct (y/n)"); // Confirm new allocation
                 }
             } while (!confirmed); // Continue loop until confirmed
@@ -258,7 +258,7 @@ namespace RecipeAppPoe
                 }
             } while (true); // Loop indefinitely until exit
         }
-
+        
         static void PrintRecipe(ItemsToBeUsed[] recipe)
         {
             Console.WriteLine("+-------------------------+-------------------------+-------------------------+-------------------------+");
