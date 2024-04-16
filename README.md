@@ -1,5 +1,4 @@
-## Demo:
-https://youtu.be/bJFNFhOsUhk
+
 
 
 ## RecipeAppPoe
@@ -30,3 +29,12 @@ To accommodate varying needs and preferences, RecipeAppPoe enables users to reve
 RecipeAppPoe prioritizes user experience with clear prompts, informative messages, and intuitive navigation. The application's interface is designed to streamline the recipe creation process, minimizing complexity and maximizing usability.
 
 With its comprehensive features and user-friendly design, RecipeAppPoe empowers users to effortlessly create, manage, and customize recipes according to their preferences and requirements. Whether cooking for one or preparing meals for a group, RecipeAppPoe simplifies the recipe management process, making cooking a delightful and stress-free experience.
+
+## Demo:
+https://youtu.be/bJFNFhOsUhk
+
+##Contribution
+BCAD student Ziyaad Mahomed developed this PROG6221 POE Part One Recipe Application, additonal code attribution  and referencing from other developers ,websites and online sources have been included  in the project 
+
+##Licenses 
+The PROG6221 POE Part One Recipe Appication us released under the MIT licence
