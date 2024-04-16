@@ -1,4 +1,4 @@
-﻿using MyNamespace; // Importing custom namespace
+using MyNamespace; // Importing custom namespace
 using System;
 
 namespace MyNamespace
@@ -14,3 +14,10 @@ namespace MyNamespace
     }
 
 }
+
+
+/*
+ 
+ https://www.w3schools.com/cs/index.php
+ 
+ */
