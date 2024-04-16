@@ -33,8 +33,8 @@ With its comprehensive features and user-friendly design, RecipeAppPoe empowers 
 ## Demo:
 https://youtu.be/bJFNFhOsUhk
 
-##Contribution
+## Contribution
 BCAD student Ziyaad Mahomed developed this PROG6221 POE Part One Recipe Application, additonal code attribution  and referencing from other developers ,websites and online sources have been included  in the project 
 
-##Licenses 
+## Licenses 
 The PROG6221 POE Part One Recipe Appication us released under the MIT licence
