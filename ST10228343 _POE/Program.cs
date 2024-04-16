@@ -1,4 +1,4 @@
-﻿using System.Xml.Linq;
+using System.Xml.Linq;
 
 namespace RecipeAppPoe
 {
@@ -258,7 +258,10 @@ namespace RecipeAppPoe
                 }
             } while (true); // Loop indefinitely until exit
         }
-        
+
+        //https://www.w3schools.com/cs/index.php
+ 
+
         static void PrintRecipe(ItemsToBeUsed[] recipe)
         {
             Console.WriteLine("+-------------------------+-------------------------+-------------------------+-------------------------+");
@@ -291,3 +294,11 @@ namespace RecipeAppPoe
         }
     }
 }
+
+
+/*
+ * 
+ * https://www.w3schools.com/cs/index.php
+ * 
+ * 
+ */
