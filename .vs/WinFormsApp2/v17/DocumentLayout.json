@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\viewdonationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\viewdonationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\viewdonationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\viewdonationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\viewdonationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\viewdonationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\editdonorinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\editdonorinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\editdonorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\editdonorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\editdonorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\editdonorinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\capturedonationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\capturedonationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\capturedonationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\capturedonationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\capturedonationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\capturedonationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\ziyaa\\source\\repos\\winformsapp2\\winformsapp2\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A04286-813B-4DDF-8B41-10AC80652284}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Program.cs",
+              "RelativeToolTip": "WinFormsApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:15:43.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewDonationsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\ViewDonationsForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ViewDonationsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\ViewDonationsForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\ViewDonationsForm.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:41:56.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditDonorInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\EditDonorInfoForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\EditDonorInfoForm.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\EditDonorInfoForm.cs*",
+              "RelativeToolTip": "WinFormsApp2\\EditDonorInfoForm.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:43:49.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewDonationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\ViewDonationsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ViewDonationsForm.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\ViewDonationsForm.cs",
+              "RelativeToolTip": "WinFormsApp2\\ViewDonationsForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:41:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewDonationsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\ViewDonationsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ViewDonationsForm.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\ViewDonationsForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\ViewDonationsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:53:04.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaptureDonationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\CaptureDonationForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\CaptureDonationForm.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\CaptureDonationForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\CaptureDonationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:02:37.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditDonorInfoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\EditDonorInfoForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\EditDonorInfoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\EditDonorInfoForm.Designer.cs*",
+              "RelativeToolTip": "WinFormsApp2\\EditDonorInfoForm.Designer.cs*",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:43:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\DataStorage.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\DataStorage.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\DataStorage.cs",
+              "RelativeToolTip": "WinFormsApp2\\DataStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:55:41.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditDonorInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\EditDonorInfoForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\EditDonorInfoForm.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\EditDonorInfoForm.cs [Design]*",
+              "RelativeToolTip": "WinFormsApp2\\EditDonorInfoForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:05:48.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaptureDonationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\CaptureDonationForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\CaptureDonationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\CaptureDonationForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\CaptureDonationForm.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwD0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:40:28.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CaptureDonationForm.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\CaptureDonationForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\CaptureDonationForm.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\CaptureDonationForm.cs",
+              "RelativeToolTip": "WinFormsApp2\\CaptureDonationForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:40:09.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:50:42.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:48:22.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ziyaa\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:48:16.853Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
