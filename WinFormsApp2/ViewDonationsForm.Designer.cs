@@ -28,20 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(20, 20);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(460, 334);
+            this.dataGridView1.TabIndex = 0;
+            // 
             // ViewDonationsForm
-            this.ClientSize = new Size(500, 400);
+            // 
+            this.ClientSize = new System.Drawing.Size(500, 400);
+            this.Controls.Add(this.dataGridView1);
+            this.Name = "ViewDonationsForm";
             this.Text = "View Donations";
-
-            // donationsListBox
-            this.donationsListBox = new ListBox();
-            this.donationsListBox.Location = new Point(20, 20);
-            this.donationsListBox.Size = new Size(460, 340);
-            this.Controls.Add(this.donationsListBox);
-
-            // Initialize form data
-            InitializeFormData();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.ResumeLayout(false);
         }
-        private ListBox donationsListBox;
+
+        private DataGridView dataGridView1;
         #endregion
     }
 }
