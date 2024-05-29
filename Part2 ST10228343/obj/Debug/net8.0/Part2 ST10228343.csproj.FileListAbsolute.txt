@@ -1,0 +1,20 @@
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\Part2 ST10228343.exe
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\Part2 ST10228343.deps.json
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\Part2 ST10228343.runtimeconfig.json
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\Part2 ST10228343.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\Part2 ST10228343.pdb
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.AssemblyInfoInputs.cache
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.AssemblyInfo.cs
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.csproj.CoreCompileInputs.cache
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\refint\Part2 ST10228343.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.pdb
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.genruntimeconfig.cache
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\ref\Part2 ST10228343.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\xunit.core.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST10228343.csproj.AssemblyReference.cache
+C:\Users\xenno\source\repos\Part2 ST10228343\Part2 ST10228343\obj\Debug\net8.0\Part2 ST.A430FD96.Up2Date
