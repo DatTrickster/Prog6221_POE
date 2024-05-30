@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Part2_ST10228343
@@ -31,6 +31,17 @@ namespace Part2_ST10228343
                 totalCalories += calorieSelector(ingredient);
             }
             return totalCalories;
+        }
+
+        // Implement a method for deep copying the Recipe object
+        public Recipe<T> Clone()
+        {
+            Recipe<T> clonedRecipe = new Recipe<T>(Name);
+            foreach (var ingredient in Ingredients)
+            {
+                clonedRecipe.Ingredients.Add(ingredient.Key, ingredient.Value);
+            }
+            return clonedRecipe;
         }
     }
 }
