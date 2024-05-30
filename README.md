@@ -27,3 +27,8 @@ The PROG6221 POE Part One Recipe Application is released under the MIT license.
 
 ## references:
 https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C-Sharp)%20is,apps%2C%20games%20and%20much%20more.
+
+
+![Screenshot 2024-05-30 133644](https://github.com/DatTrickster/Prog6221_POE/assets/108807317/ea716920-ea55-4554-84fe-d9f259d17f68)
+![Screenshot 2024-05-30 133634](https://github.com/DatTrickster/Prog6221_POE/assets/108807317/db0db54d-4cc6-4e4c-9539-d6ad5daacdde)
+![Screenshot 2024-05-30 133653](https://github.com/DatTrickster/Prog6221_POE/assets/108807317/4503d76d-48ac-4cd7-8544-92faf69cee2a)
