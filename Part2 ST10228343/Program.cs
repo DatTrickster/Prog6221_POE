@@ -5,7 +5,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Main program loop, continually shows the main menu
         while (true)
         {
             ShowMainMenu();
@@ -14,15 +13,13 @@ class Program
 
     static void ShowMainMenu()
     {
-        // Sound a beep and clear the console screen
         Console.Beep();
         Console.Clear();
-
-        // Set the console text color to DarkCyan
         Console.ForegroundColor = ConsoleColor.DarkCyan;
-
-        // Initialize and display a welcome message in ASCII art style
+        // make screen bigger to see message
         string InitWelcomeMessage = @"
+
+
 ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    ████████╗ ██████╗     ████████╗██╗  ██╗███████╗                   
 ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝    ╚══██╔══╝██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝                   
 ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗         ██║   ██║   ██║       ██║   ███████║█████╗                     
@@ -35,10 +32,10 @@ class Program
 ██╔══██╗██╔══╝  ██║     ██║██╔═══╝ ██╔══╝      
 ██║  ██║███████╗╚██████╗██║██║     ███████╗    
 ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝╚═╝     ╚══════╝
+                                                                                                                                    
+
 ";
         Console.WriteLine(InitWelcomeMessage);
-
-        // Display the main menu options
         Console.WriteLine("===================================");
         Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine("1. Add a new recipe");
@@ -49,11 +46,9 @@ class Program
         Console.ForegroundColor = ConsoleColor.DarkCyan;
         Console.WriteLine("===================================");
 
-        // Prompt the user for their choice
         Console.Write("Enter your choice: ");
         string? choice = Console.ReadLine();
 
-        // Execute the corresponding action based on the user's choice
         switch (choice)
         {
             case "1":
@@ -72,7 +67,6 @@ class Program
                 Environment.Exit(0);
                 break;
             default:
-                // Inform the user of an invalid choice
                 Console.WriteLine("Invalid choice. Please try again.");
                 break;
         }
