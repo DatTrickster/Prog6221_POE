@@ -51,7 +51,7 @@ using System.Collections.Generic;
                                     double quantity;
                                     while (true)
                                     {
-                                        Console.WriteLine($"Enter the quantity of {ingredientName} (in grams, milliliters, etc.):");
+                                        Console.WriteLine($"Enter the quantity of {ingredientName} :");
                                         if (!double.TryParse(Console.ReadLine(), out quantity))
                                         {
                                             Console.ForegroundColor = ConsoleColor.Red;
