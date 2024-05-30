@@ -1,11 +1,13 @@
 using System;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace Part2_ST10228343
 {
     public static class RecipeHandler
     {
         private static Dictionary<string, Recipe<ItemsToBeUsed>> recipes = new Dictionary<string, Recipe<ItemsToBeUsed>>();
+        private static Dictionary<string, Recipe<ItemsToBeUsed>> originalRecipes = new Dictionary<string, Recipe<ItemsToBeUsed>>();
 
         public static void BeepSound(int times = 1)
         {
@@ -39,14 +41,16 @@ namespace Part2_ST10228343
                             {
                                 if (recipe.Ingredients.ContainsKey(ingredientName))
                                 {
-                                    Console.ForegroundColor = ConsoleColor.Red;
                                     Console.WriteLine($"An ingredient with the name '{ingredientName}' already exists. Please enter a different name.");
-                                    Console.ResetColor();
                                     continue;
                                 }
 
                                 Console.WriteLine($"Enter the quantity of {ingredientName} (in grams, milliliters, etc.):");
-                                double quantity = Convert.ToDouble(Console.ReadLine());
+                                if (!double.TryParse(Console.ReadLine(), out double quantity))
+                                {
+                                    Console.WriteLine("Invalid quantity. Please enter a valid number.");
+                                    continue;
+                                }
 
                                 Console.WriteLine("Enter the unit of measurement:");
                                 string? unitOfMeasurement = Console.ReadLine();
@@ -55,7 +59,11 @@ namespace Part2_ST10228343
                                 string? description = Console.ReadLine();
 
                                 Console.WriteLine("Enter the number of calories:");
-                                double calories = Convert.ToDouble(Console.ReadLine());
+                                if (!double.TryParse(Console.ReadLine(), out double calories))
+                                {
+                                    Console.WriteLine("Invalid calorie count. Please enter a valid number.");
+                                    continue;
+                                }
 
                                 Console.WriteLine("Enter the food group:");
                                 string? foodGroup = Console.ReadLine();
@@ -72,7 +80,7 @@ namespace Part2_ST10228343
 
                                 recipe.AddIngredient(ingredientName, ingredient);
                                 BeepSound();
-                                break;
+                                break; // Break out of the while loop if the ingredient is added successfully
                             }
                         }
                     }
@@ -87,9 +95,13 @@ namespace Part2_ST10228343
                     }
 
                     recipes.Add(recipeName, recipe);
-                    Console.ForegroundColor = ConsoleColor.Green;
+                    originalRecipes.Add(recipeName, recipe.Clone()); // Store original recipe
                     Console.WriteLine("Recipe added successfully!");
-                    Console.ResetColor();
+                    Thread.Sleep(1000); // Delay for better user experience
+                }
+                else
+                {
+                    Console.WriteLine("Invalid ingredient count. Please enter a valid number.");
                 }
             }
         }
@@ -151,9 +163,19 @@ namespace Part2_ST10228343
 
                                 if (revertResponse?.ToLower() == "yes")
                                 {
-                                    ScaleRecipe(selectedRecipe, 1 / scalingFactor);
-                                    Console.WriteLine("Reverted to original quantities.");
-                                    DisplayRecipeDetails(selectedRecipe);
+                                    if (originalRecipes.TryGetValue(selectedRecipeName, out Recipe<ItemsToBeUsed>? originalRecipe))
+                                    {
+                                        recipes[selectedRecipeName] = originalRecipe.Clone();
+                                        Console.WriteLine("Reverted to original quantities.");
+                                        Console.WriteLine("Original Recipe Details:");
+                                        DisplayRecipeDetails(originalRecipe);
+                                    }
+
+                                    Console.WriteLine("Press 0 to go back to the main menu.");
+                                    while (Console.ReadKey().KeyChar != '0')
+                                    {
+                                        Console.WriteLine("\nInvalid input. Please press 0 to go back to the main menu.");
+                                    }
                                 }
                             }
                         }
@@ -183,9 +205,9 @@ namespace Part2_ST10228343
 
             if (recipeName != null && recipes.Remove(recipeName))
             {
-                Console.ForegroundColor = ConsoleColor.Green;
+                originalRecipes.Remove(recipeName); // Remove original recipe as well
                 Console.WriteLine($"Recipe '{recipeName}' deleted successfully.");
-                Console.ResetColor();
+                Thread.Sleep(1000); // Delay for better user experience
             }
             else
             {
@@ -198,9 +220,9 @@ namespace Part2_ST10228343
         public static void ClearAllRecipes()
         {
             recipes.Clear();
-            Console.ForegroundColor = ConsoleColor.Green;
+            originalRecipes.Clear(); // Clear original recipes as well
             Console.WriteLine("All recipes have been cleared.");
-            Console.ResetColor();
+            Thread.Sleep(1000); // Delay for better user experience
         }
 
         private static void DisplayRecipeDetails(Recipe<ItemsToBeUsed> recipe)
@@ -256,3 +278,4 @@ namespace Part2_ST10228343
         }
     }
 }
+
