@@ -24,3 +24,6 @@ BCAD student Ziyaad Mahomed developed this PROG6221 POE Part One Recipe Applicat
 
 ## Licenses 
 The PROG6221 POE Part One Recipe Application is released under the MIT license.
+
+## references:
+https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C-Sharp)%20is,apps%2C%20games%20and%20much%20more.
