@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Part2_ST10228343
@@ -39,7 +39,9 @@ namespace Part2_ST10228343
                             {
                                 if (recipe.Ingredients.ContainsKey(ingredientName))
                                 {
+                                    Console.ForegroundColor = ConsoleColor.Red;
                                     Console.WriteLine($"An ingredient with the name '{ingredientName}' already exists. Please enter a different name.");
+                                    Console.ResetColor();
                                     continue;
                                 }
 
@@ -85,7 +87,9 @@ namespace Part2_ST10228343
                     }
 
                     recipes.Add(recipeName, recipe);
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("Recipe added successfully!");
+                    Console.ResetColor();
                 }
             }
         }
@@ -179,7 +183,9 @@ namespace Part2_ST10228343
 
             if (recipeName != null && recipes.Remove(recipeName))
             {
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"Recipe '{recipeName}' deleted successfully.");
+                Console.ResetColor();
             }
             else
             {
@@ -192,7 +198,9 @@ namespace Part2_ST10228343
         public static void ClearAllRecipes()
         {
             recipes.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("All recipes have been cleared.");
+            Console.ResetColor();
         }
 
         private static void DisplayRecipeDetails(Recipe<ItemsToBeUsed> recipe)
