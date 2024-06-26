@@ -1,4 +1,4 @@
-## RecipeAppPoe
+# RecipeAppPoe
 
 RecipeAppPoe is a user-friendly WPF application designed to simplify the process of creating, managing, and scaling recipes. It empowers users to effortlessly add ingredients along with detailed preparation steps. Additionally, it offers the flexibility to adjust ingredient quantities by factors of 0.5, 2, or 3 while preserving the original amounts.
 
@@ -19,43 +19,17 @@ RecipeAppPoe is a user-friendly WPF application designed to simplify the process
 - **Scale Recipes:** Adjust ingredient quantities by factors of 0.5, 2, or 3.
 - **Calorie Alert:** Get a warning if the scaled recipe exceeds 300 calories.
 
-## User Manual
+## Changes Made
 
-### Main Window
-The main window displays the list of recipes with filtering options.
+### New Features and Enhancements
+- **Transition to WPF:** The application has been migrated from a console-based interface to a Windows Presentation Foundation (WPF) interface for a more intuitive and user-friendly experience.
+- **Filtering Recipes:** Added the ability to filter recipes by ingredient, food group, and calories.
+- **Recipe Scaling:** Implemented scaling options to adjust ingredient quantities by 0.5, 2, or 3 times.
+- **Calorie Warning:** Added a feature to alert users if the scaled recipe exceeds 300 calories.
 
-********screenshot here***********
-
-- **Filter by Ingredient:** Enter an ingredient name to filter the recipes.
-- **Filter by Food Group:** Select a food group from the dropdown to filter the recipes.
-- **Filter by Calories:** Enter a maximum calorie value to filter the recipes.
-- **Apply Filter:** Apply the selected filters.
-- **Clear Filter:** Clear all filters and display all recipes.
-
-### Adding a Recipe
-Click the "Add Recipe" button to open the Add Recipe window.
-
-********screenshot here***********
-
-- **Recipe Name:** Enter the name of the recipe.
-- **Ingredients:** Add ingredients with their name, quantity, unit, description, calories, and food group.
-- **Add Ingredient:** Click to add the ingredient to the list.
-- **Save Recipe:** Save the recipe.
-
-### Viewing a Recipe
-Select a recipe from the list and click the "View Recipe" button.
-
-********screenshot here***********
-
-- **Recipe Details:** Displays the name, ingredients, and preparation steps of the recipe.
-- **Scale Recipe:** Select a scaling factor (0.5, 2, 3) to adjust the ingredient quantities.
-- **Calorie Alert:** A warning is displayed if the scaled recipe exceeds 300 calories.
-
-### Deleting a Recipe
-Select a recipe from the list and click the "Delete Recipe" button to remove it.
-
-### Clearing All Recipes
-Click the "Clear All Recipes" button to remove all recipes from the list.
+### User Interface Improvements
+- **Intuitive UI:** Improved user interface for better user experience.
+- **Dynamic Updates:** Real-time updates to the recipe list and ingredient details.
 
 ## Demo
 
@@ -63,11 +37,11 @@ Click the "Clear All Recipes" button to remove all recipes from the list.
 
 ## Contribution
 
-BCAD student Ziyaad Mahomed developed this PROG6221 POE Part One Recipe Application, additional code attribution and referencing from other developers, websites, and online sources have been included in the project.
+BCAD student Ziyaad Mahomed developed this PROG6221 POE Part One Recipe Application. Additional code attribution and referencing from other developers, websites, and online sources have been included in the project.
 
 ## License
 
-The PROG6221 POE Part One Recipe Application is released under the MIT license.
+The PROG6221 POE Part 3 Recipe Application is released under the MIT license.
 
 ## References
 
