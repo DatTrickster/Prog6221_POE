@@ -76,7 +76,7 @@ namespace part3_ST10228343 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/part3_ST10228343;V1.0.0.0;component/addrecipewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/part3_ST10228343;component/addrecipewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddRecipeWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

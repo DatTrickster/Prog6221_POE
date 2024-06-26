@@ -20,6 +20,8 @@ using System.Collections.Generic;
                 }
             }
 
+
+        // old code reused
             public static void AddRecipe()
             {
                 Console.WriteLine("\nEnter the name of the recipe:");

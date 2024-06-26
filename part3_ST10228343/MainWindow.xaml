@@ -33,6 +33,7 @@
             <Button Content="View Recipe" Click="ViewRecipe_Click" Margin="5"/>
             <Button Content="Delete Recipe" Click="DeleteRecipe_Click" Margin="5"/>
             <Button Content="Clear All Recipes" Click="ClearAllRecipes_Click" Margin="5"/>
+            <Button Content="Select Recipes for Menu" Click="SelectRecipesForMenu_Click" Margin="5"/>
         </StackPanel>
     </Grid>
 </Window>

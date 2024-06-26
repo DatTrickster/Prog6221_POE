@@ -1,15 +1,7 @@
 ﻿using System.Collections.ObjectModel;
 using System.ComponentModel;
-using System.Text;
+using System.Linq;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace part3_ST10228343
 {
@@ -134,6 +126,12 @@ namespace part3_ST10228343
         private void OnRecipeExceedsCalories()
         {
             MessageBox.Show("Warning: Recipe exceeds 300 calories!", "Calorie Alert", MessageBoxButton.OK, MessageBoxImage.Warning);
+        }
+
+        private void SelectRecipesForMenu_Click(object sender, RoutedEventArgs e)
+        {
+            var selectRecipesWindow = new SelectRecipesWindow(Recipes);
+            selectRecipesWindow.ShowDialog();
         }
 
         protected virtual void OnPropertyChanged(string propertyName)
