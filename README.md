@@ -21,28 +21,42 @@ RecipeAppPoe is a user-friendly WPF application designed to simplify the process
 
 ## Changes Made
 
-### New Features and Enhancements
-- **Transition to WPF:** The application has been migrated from a console-based interface to a Windows Presentation Foundation (WPF) interface for a more intuitive and user-friendly experience.
-- **Filtering Recipes:** Added the ability to filter recipes by ingredient, food group, and calories.
-- **Recipe Scaling:** Implemented scaling options to adjust ingredient quantities by 0.5, 2, or 3 times.
-- **Calorie Warning:** Added a feature to alert users if the scaled recipe exceeds 300 calories.
+Based on feedback, the application has been migrated from a console-based interface to a Windows Presentation Foundation (WPF) interface for enhanced usability. Additional features such as filtering recipes by ingredient, food group, and calories were implemented. Recipe scaling options were added to adjust ingredient quantities by 0.5, 2, or 3 times. A calorie warning feature was also introduced to alert users if the scaled recipe exceeds 300 calories. These changes were made to improve functionality and user experience, making the application more robust and user-friendly.
 
-### User Interface Improvements
-- **Intuitive UI:** Improved user interface for better user experience.
-- **Dynamic Updates:** Real-time updates to the recipe list and ingredient details.
+## Instructions for Compilation and Running the Software
 
-## Demo
+### Prerequisites
+- .NET Framework 4.7.2 or higher
+- Visual Studio 2019 or higher
 
-[Watch the Demo Video](https://youtu.be/3Fyv6QjA2Yc)
+### Compilation Instructions:
 
-## Contribution
+Clone the repository from GitHub:
 
-BCAD student Ziyaad Mahomed developed this PROG6221 POE Part One Recipe Application. Additional code attribution and referencing from other developers, websites, and online sources have been included in the project.
+Open the solution file RecipeAppPoe.sln in Visual Studio.
 
-## License
+Restore NuGet packages:
+Right-click on the solution in the Solution Explorer.
 
-The PROG6221 POE Part 3 Recipe Application is released under the MIT license.
+Select Restore NuGet Packages.
 
-## References
+Build the solution:
 
-- [W3Schools C# Tutorial](https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C-Sharp)%20is,apps%2C%20games%20and%20much%20more.)
+Click on Build in the menu.
+
+Select Build Solution (or press Ctrl+Shift+B).
+
+## Running the Application
+
+After building the solution, press F5 or click the Start button to run the application.
+
+The application window should open, allowing you to add, view, delete, and scale recipes.
+
+### Contribution
+BCAD student Ziyaad Mahomed developed this PROG6221 POE Part 3 Recipe Application. Additional code attribution and referencing from other developers, websites, and online sources have been included in the project.
+
+### License
+The PROG6221 POE Part One Recipe Application is released under the MIT license.
+
+### References
+W3Schools C# Tutorial
