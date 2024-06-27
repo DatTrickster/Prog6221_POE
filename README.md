@@ -1,9 +1,9 @@
 # RecipeAppPoe
 
 RecipeAppPoe is a user-friendly WPF application designed to simplify the process of creating, managing, and scaling recipes. It empowers users to effortlessly add ingredients along with detailed preparation steps. Additionally, it offers the flexibility to adjust ingredient quantities by factors of 0.5, 2, or 3 while preserving the original amounts.
-
+## Demo:
+https://youtu.be/4wKiJKeCkXM
 ## Features
-
 ### Recipe Management
 - **Add Recipes:** Easily add new recipes with ingredients and detailed preparation steps.
 - **View Recipes:** View the complete list of recipes and their details.
@@ -52,11 +52,12 @@ After building the solution, press F5 or click the Start button to run the appli
 
 The application window should open, allowing you to add, view, delete, and scale recipes.
 
-### Contribution
+## Contribution
 BCAD student Ziyaad Mahomed developed this PROG6221 POE Part 3 Recipe Application. Additional code attribution and referencing from other developers, websites, and online sources have been included in the project.
 
-### License
+## License
 The PROG6221 POE Part One Recipe Application is released under the MIT license.
 
-### References
+## References
 W3Schools C# Tutorial
+
