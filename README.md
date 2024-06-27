@@ -31,7 +31,7 @@ RecipeAppPoe prioritizes user experience with clear prompts, informative message
 With its comprehensive features and user-friendly design, RecipeAppPoe empowers users to effortlessly create, manage, and customize recipes according to their preferences and requirements. Whether cooking for one or preparing meals for a group, RecipeAppPoe simplifies the recipe management process, making cooking a delightful and stress-free experience.
 
 ## Demo:
-https://youtu.be/bJFNFhOsUhk
+https://youtu.be/4wKiJKeCkXM
 
 ## Contribution
 BCAD student Ziyaad Mahomed developed this PROG6221 POE Part One Recipe Application, additonal code attribution  and referencing from other developers ,websites and online sources have been included  in the project 
